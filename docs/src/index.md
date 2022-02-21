@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Personal Blog
+tagline: Blog
 actionText: Quick Start →
 actionLink: /guide/
 features:
