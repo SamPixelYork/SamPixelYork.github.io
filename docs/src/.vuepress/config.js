@@ -68,3 +68,4 @@ module.exports = {
     '@vuepress/plugin-medium-zoom',
   ]
 }
+base: "/SamPixelYork.github.io/"
