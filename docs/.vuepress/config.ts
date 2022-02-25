@@ -19,32 +19,55 @@ export default defineUserConfig<DefaultThemeOptions>({
             },
             {
               text: 'Portfolio',
-              link: '/portfolio/'
+              children: [
+                  {
+                      text: 'Calculator',
+                      link: '/portfolio/calculator/'
+                  },
+                  {
+                      text: 'Todo List',
+                      link: '/portfolio/todolist'
+                  }
+              ]
             },
             {
                 text: 'About',
                 link: '/about/'
+            },
+            {
+                text: 'Contact',
+                link: '/contact/'
             }
         ],
-        repo: 'SamPixelYork/blog',
+        repo: 'SamPixelYork/SamPixelYork.github.io',
         sidebar: [
             // SidebarItem
             {
-                text: 'Foo',
-                link: '/foo/',
-                children: [
-                    // SidebarItem
-                    {
-                        text: 'github',
-                        link: 'https://github.com',
-                        children: [],
-                    },
-                    // string - page file path
-                    '/foo/bar.md',
-                ],
+                text: 'Blog',
+                link: '/blog/',
             },
-            // string - page file path
-            '/bar/README.md',
+            {
+                text: 'Portfolio',
+                children: [
+                    {
+                        text: 'Calculator',
+                        link: '/portfolio/calculator/'
+                    },
+                    {
+                        text: 'Todo List',
+                        link: '/portfolio/todolist'
+                    }
+                ]
+            },
+            {
+                text: 'About',
+                link: '/about/'
+            },
+            {
+                text: 'Contact',
+                link: '/contact/'
+            }
+
         ]
     },
 })
