@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1efbeb77-ef08-4c8b-a477-0ba7d14395ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25OgTwhlU2Zyj9k5nmGKwnQ2CIl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sam\WebstormProjects\SamPixelYork.github.io\docs\" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1efbeb77-ef08-4c8b-a477-0ba7d14395ee" name="Changes" comment="" />
+      <created>1645403558930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645403558930</updated>
+      <workItem from="1645403563018" duration="3551000" />
+      <workItem from="1645407164818" duration="1519000" />
+      <workItem from="1645418783779" duration="4616000" />
+      <workItem from="1645430287375" duration="3225000" />
+      <workItem from="1645765225322" duration="68000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add about and portfolio pages">
+      <created>1645403935998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645403935998</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Corrected front matter">
+      <created>1645404306091</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645404306091</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added homepage">
+      <created>1645404445996</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645404445996</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created blog and contact pages">
+      <created>1645404650872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645404650872</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Vuepress boilerplate">
+      <created>1645426965425</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645426965425</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Vuepress boilerplate">
+      <created>1645428678031</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645428678031</updated>
+    </task>
+    <task id="LOCAL-00007" summary="deploy">
+      <created>1645431384105</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645431384105</updated>
+    </task>
+    <task id="LOCAL-00008" summary="deploy">
+      <created>1645432218579</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645432218579</updated>
+    </task>
+    <task id="LOCAL-00009" summary="deploy">
+      <created>1645432347136</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645432347136</updated>
+    </task>
+    <task id="LOCAL-00010" summary="deploy">
+      <created>1645432420199</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1645432420199</updated>
+    </task>
+    <task id="LOCAL-00011" summary="deploy">
+      <created>1645432763575</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1645432763575</updated>
+    </task>
+    <task id="LOCAL-00012" summary="wipe">
+      <created>1645765276265</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1645765276265</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add about and portfolio pages" />
+    <MESSAGE value="Corrected front matter" />
+    <MESSAGE value="Added homepage" />
+    <MESSAGE value="Created blog and contact pages" />
+    <MESSAGE value="Vuepress boilerplate" />
+    <MESSAGE value="deploy" />
+    <MESSAGE value="wipe" />
+    <option name="LAST_COMMIT_MESSAGE" value="wipe" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
